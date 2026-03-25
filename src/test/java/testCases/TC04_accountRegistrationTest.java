@@ -11,7 +11,7 @@ import pageObjects.AccountRegistrationPage;
 import pageObjects.HomePage;
 import testBase.BaseClass;
 
-public class TC01_accountRegistrationTest extends BaseClass{
+public class TC04_accountRegistrationTest extends BaseClass{
 	
 	@Test(groups ={"Regression", "Master"})
 	public void verify_account_registration() {
