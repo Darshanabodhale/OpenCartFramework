@@ -1,0 +1,7 @@
+17:37:56.207 [main] INFO  testCases.TC01_accountRegistrationTest - ****** Starting TC01_accountRegistrationTest  *******
+17:37:56.639 [main] INFO  testCases.TC01_accountRegistrationTest - Clicked on MyAccount Link
+17:37:57.351 [main] INFO  testCases.TC01_accountRegistrationTest - Clicked on Register Link
+17:37:57.368 [main] INFO  testCases.TC01_accountRegistrationTest - Providing Customer details...
+17:37:59.337 [main] INFO  testCases.TC01_accountRegistrationTest - Validating expected message...
+17:37:59.414 [main] ERROR testCases.TC01_accountRegistrationTest - Test Failed..
+17:37:59.414 [main] DEBUG testCases.TC01_accountRegistrationTest - Debug logs..

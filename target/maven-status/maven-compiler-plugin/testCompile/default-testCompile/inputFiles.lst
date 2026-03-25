@@ -1,0 +1,12 @@
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\pageObjects\AccountRegistrationPage.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\pageObjects\BasePage.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\pageObjects\HomePage.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\pageObjects\LoginPage.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\pageObjects\MyAccountPage.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\testBase\BaseClass.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\testCases\TC01_accountRegistrationTest.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\testCases\TC02_LoginTest.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\testCases\TC03_LoginDDT.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\utilities\DataProviders.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\utilities\ExcelUtility.java
+C:\Users\darsh\eclipse-workspace\OpenCartFramework\src\test\java\utilities\ExtentReportManager.java

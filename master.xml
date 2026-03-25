@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name=" Master Suite">
+
+<listeners>
+	<listener class-name="utilities.ExtentReportManager"/>
+</listeners>
+
+  <test thread-count="5" name="Test">
+     <parameter name="os" value="Windows"/>
+     <parameter name="browser" value="edge"/>
+  
+    <classes>
+     <class name="testCases.TC01_accountRegistrationTest"/> 
+      <class name="testCases.TC02_LoginTest"/> 
+      <!-- <class name="testCases.TC03_LoginDDT"/>  -->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
